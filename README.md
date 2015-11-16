@@ -1,4 +1,4 @@
-Yii2 sentry component
+Yii2 sentry log
 =====================
 
 Yii2 Sentry component allowing for unified array format passing parameters to Sentry log target and other log targets. The ability to pass arrays as the log message is suitable practice for
@@ -6,7 +6,7 @@ those who want to use Logstash, ElasticSearch, etc. for getting statistical infe
 
 ## Install
 ```
-php composer.phar require --prefer-dist mitrm/yii2-sentry-component "dev-master"
+php composer.phar require --prefer-dist mitrm/yii2-sentry-log "dev-master"
 ```
 
 In config file:
