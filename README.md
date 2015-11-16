@@ -6,7 +6,7 @@ those who want to use Logstash, ElasticSearch, etc. for getting statistical infe
 
 ## Install
 ```
-php composer.phar require  --prefer-dist mitrm/yii2-sentry-component "dev-master"
+php composer.phar require --prefer-dist mitrm/yii2-sentry-component "dev-master"
 ```
 
 In config file:
